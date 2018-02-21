@@ -9,3 +9,5 @@ To activate CI, do the following:
 Then you get the following, nice banner!
 
 [![Build Status](https://travis-ci.org/kazu-yamamoto/unit-test-example.png?branch=master)](https://travis-ci.org/kazu-yamamoto/unit-test-example)
+
+[2017 . Feb] 開始[[繁體中文]](./markdown/ch/tutorial.md)翻譯
